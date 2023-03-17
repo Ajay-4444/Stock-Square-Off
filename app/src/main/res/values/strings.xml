@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Stock Calculator</string>
+    <string name="average">Average</string>
+    <string name="button">Square Off</string>
+    <string name="select_process_to_proceed">Select process to proceed</string>
+    <string name="profit_loss">profit/Loss</string>
+    <string name="multiple_stock">Multiple stock</string>
+    <string name="single_stock">single stock</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="textview">TextView</string>
+    <string name="total_cost">Total Cost                       :</string>
+    <string name="total_shares">Total Shares                   :</string>
+    <string name="average_price_for_stock">Average price for stock:</string>
+    <string name="original_purchase_qty">Original Purchase Qty</string>
+    <string name="original_price">Original Price bought</string>
+    <string name="new_purchase_qty">New Purchase Qty</string>
+    <string name="new_price">New Purchase Price</string>
+    <string name="prices">Purchase Prices</string>
+    <string name="Qty">Share Qty</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="rupee">₹</string>
+    <string name="profit">Profit</string>
+    <string name="loss">Loss</string>
+    <string name="sellprice">Sell Price</string>
+    <string name="purchaseprice">Purchase Price</string>
+    <string name="buycharge">Buy Commission</string>
+    <string name="sellcharge">Sell Commission</string>
+    <string name="current">Current Price</string>
+    <string name="Estimated">Estimated price</string>
+</resources>
